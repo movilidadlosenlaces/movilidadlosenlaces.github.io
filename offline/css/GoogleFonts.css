@@ -1,0 +1,5509 @@
+@font-face {
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ABeeZee-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Abel-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Abril Fatface';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AbrilFatface-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Aclonica';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Aclonica-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Acme';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Acme-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Actor';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Actor-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Adamina';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Adamina-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Advent Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AdventPro-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Aguafina Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AguafinaScript-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Akronim';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Akronim-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Aladin';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Aladin-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Aldrich';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Aldrich-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Alef';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Alef-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Alegreya';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Alegreya-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'Alegreya SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AlegreyaSC-Regular.ttf) format('truetype');
+}
+
+
+
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AlegreyaSans-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'Alegreya Sans SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AlegreyaSansSC-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Alex Brush';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AlexBrush-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Alfa Slab One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AlfaSlabOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Alice-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Alike-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Alike Angular';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AlikeAngular-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Allan';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Allan-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Allerta';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Allerta-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Allerta Stencil';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AllertaStencil-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Allura';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Allura-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Almendra';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Almendra-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Almendra Display';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AlmendraDisplay-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Almendra SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AlmendraSC-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Amarante';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Amarante-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Amaranth';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Amaranth-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Amatic SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AmaticSC-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Amethysta';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Amethysta-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Amiri';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Amiri-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Amita';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Amita-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Anaheim';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Anaheim-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Andada';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Andada-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Andika';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Andika-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Angkor';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Angkor-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Annie Use Your Telescope';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AnnieUseYourTelescope-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Anonymous Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AnonymousPro-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Antic';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Antic-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Antic Didone';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AnticDidone-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Antic Slab';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AnticSlab-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Anton';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Anton-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Arapey';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Arapey-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Arbutus';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Arbutus-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Arbutus Slab';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ArbutusSlab-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Architects Daughter';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ArchitectsDaughter-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Archivo Black';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ArchivoBlack-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Archivo Narrow';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ArchivoNarrow-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Arimo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Arimo-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Arizonia';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Arizonia-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Armata';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Armata-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Artifika';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Artifika-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Arvo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Arvo-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Arya';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Arya-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Asap';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Asap-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Asar';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Asar-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Asset';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Asset-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Astloch';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Astloch-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Asul';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Asul-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Atomic Age';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AtomicAge-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Aubrey';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Aubrey-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Audiowide';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Audiowide-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Autour One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AutourOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Average';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Average-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Average Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AverageSans-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Averia Gruesa Libre';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AveriaGruesaLibre-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Averia Libre';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AveriaLibre-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Averia Sans Libre';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AveriaSansLibre-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Averia Serif Libre';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/AveriaSerifLibre-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Bad Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/BadScript-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Balthazar';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Balthazar-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Bangers';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Bangers-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Basic-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Battambang';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Battambang-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Baumans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Baumans-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Bayon';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Bayon-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Belgrano';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Belgrano-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Belleza';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Belleza-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'BenchNine';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/BenchNine-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Bentham';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Bentham-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Berkshire Swash';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/BerkshireSwash-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Bevan';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Bevan-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Bigelow Rules';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/BigelowRules-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Bigshot One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/BigshotOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Bilbo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Bilbo-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Bilbo Swash Caps';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/BilboSwashCaps-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Biryani';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Biryani-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Bitter';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Bitter-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Black Ops One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/BlackOpsOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Bokor';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Bokor-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Bonbon';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Bonbon-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Boogaloo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Boogaloo-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Bowlby One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/BowlbyOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Bowlby One SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/BowlbyOneSC-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Brawler';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Brawler-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/BreeSerif-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Bubblegum Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/BubblegumSans-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Bubbler One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/BubblerOne-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Buenard';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Buenard-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Butcherman';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Butcherman-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Butterfly Kids';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ButterflyKids-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Cabin-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Cabin Condensed';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CabinCondensed-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Cabin Sketch';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CabinSketch-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Caesar Dressing';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CaesarDressing-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Cagliostro';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Cagliostro-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Calligraffitti';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Calligraffitti-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Cambay';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Cambay-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+
+@font-face {
+    font-family: 'Cambo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Cambo-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Candal';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Candal-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Cantarell';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Cantarell-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+
+@font-face {
+    font-family: 'Cantata One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CantataOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Cantora One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CantoraOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Capriola';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Capriola-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Cardo-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Carme';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Carme-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Carrois Gothic';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CarroisGothic-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Carrois Gothic SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CarroisGothicSC-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Carter One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CarterOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Caudex';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Caudex-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+
+@font-face {
+    font-family: 'Cedarville Cursive';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CedarvilleCursive-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ceviche One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CevicheOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Changa One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ChangaOne-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Chango';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Chango-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Chau Philomene One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ChauPhilomeneOne-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Chela One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ChelaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Chelsea Market';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ChelseaMarket-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Chenla';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Chenla-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Cherry Cream Soda';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CherryCreamSoda-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Cherry Swash';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CherrySwash-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Chewy';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Chewy-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Chicle';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Chicle-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Chivo-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Cinzel';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Cinzel-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Cinzel Decorative';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CinzelDecorative-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Clicker Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ClickerScript-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Coda';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Coda-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Codystar';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Codystar-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Combo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Combo-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Comfortaa-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Coming Soon';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ComingSoon-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Concert One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ConcertOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Condiment';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Condiment-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Content';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Content-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Contrail One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ContrailOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Convergence';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Convergence-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Cookie';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Cookie-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Copse';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Copse-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Corben';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Corben-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Courgette';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Courgette-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Cousine';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Cousine-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Coustard';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Coustard-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Covered By Your Grace';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CoveredByYourGrace-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Crafty Girls';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CraftyGirls-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Creepster';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Creepster-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Crete Round';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CreteRound-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CrimsonText-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+
+@font-face {
+    font-family: 'Croissant One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CroissantOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Crushed';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Crushed-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Cuprum';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Cuprum-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Cutive';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Cutive-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Cutive Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/CutiveMono-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Damion';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Damion-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DancingScript-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Dangrek';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Dangrek-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Dawning of a New Day';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DawningofaNewDay-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Days One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DaysOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Dekko';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Dekko-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Delius';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Delius-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Delius Swash Caps';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DeliusSwashCaps-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Delius Unicase';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DeliusUnicase-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Della Respira';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DellaRespira-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Denk One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DenkOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Devonshire';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Devonshire-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Dhurjati';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Dhurjati-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DidactGothic-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Diplomata';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Diplomata-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Diplomata SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DiplomataSC-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Domine';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Domine-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Donegal One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DonegalOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Doppio One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DoppioOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Dorsa';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Dorsa-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Dosis-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Dr Sugiyama';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DrSugiyama-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Droid Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DroidSans-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Droid Sans Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DroidSansMono-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Droid Serif';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DroidSerif-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Duru Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/DuruSans-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Dynalight';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Dynalight-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/EBGaramond-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Eagle Lake';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/EagleLake-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Eater';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Eater-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Economica';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Economica-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Eczar';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Eczar-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Ek Mukta';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/EkMukta-Regular.ttf) format('truetype');
+}
+
+
+
+
+@font-face {
+    font-family: 'Electrolize';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Electrolize-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Elsie';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Elsie-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Elsie Swash Caps';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ElsieSwashCaps-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Emblema One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/EmblemaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Emilys Candy';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/EmilysCandy-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Engagement';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Engagement-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Englebert';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Englebert-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Enriqueta';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Enriqueta-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Erica One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/EricaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Esteban';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Esteban-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Euphoria Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/EuphoriaScript-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ewert';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Ewert-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Exo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Exo-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Expletus Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ExpletusSans-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Fanwood Text';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/FanwoodText-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Fascinate';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Fascinate-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Fascinate Inline';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/FascinateInline-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Faster One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/FasterOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Fasthand';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Fasthand-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Fauna One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/FaunaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Federant';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Federant-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Federo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Federo-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Felipa';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Felipa-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Fenix';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Fenix-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Finger Paint';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/FingerPaint-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Fira Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/FiraMono-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/FiraSans-Regular.ttf) format('truetype');
+}
+
+
+
+
+@font-face {
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/FjallaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Fjord One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/FjordOne-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Flamenco';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Flamenco-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Flavors';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Flavors-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Fondamento';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Fondamento-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Fontdiner Swanky';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/FontdinerSwanky-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Forum';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Forum-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Francois One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/FrancoisOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Freckle Face';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/FreckleFace-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Fredericka the Great';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/FrederickatheGreat-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Fredoka One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/FredokaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Freehand';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Freehand-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Fresca';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Fresca-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Frijole';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Frijole-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Fruktur';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Fruktur-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Fugaz One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/FugazOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'GFS Didot';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GFSDidot-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'GFS Neohellenic';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GFSNeohellenic-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Gabriela-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Gafata';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Gafata-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Galdeano';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Galdeano-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Galindo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Galindo-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GentiumBasic-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Gentium Book Basic';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GentiumBookBasic-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Geo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Geo-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Geostar';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Geostar-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Geostar Fill';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GeostarFill-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Germania One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GermaniaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Gidugu';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Gidugu-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Gilda Display';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GildaDisplay-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Give You Glory';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GiveYouGlory-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Glass Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GlassAntiqua-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Glegoo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Glegoo-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Gloria Hallelujah';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GloriaHallelujah-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Goblin One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GoblinOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Gochi Hand';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GochiHand-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Gorditas';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Gorditas-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Goudy Bookletter 1911';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GoudyBookletter1911-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Graduate';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Graduate-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Grand Hotel';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GrandHotel-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Gravitas One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GravitasOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Great Vibes';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/GreatVibes-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Griffy';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Griffy-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Gruppo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Gruppo-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Gudea';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Gudea-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Gurajada';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Gurajada-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Habibi';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Habibi-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Halant-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Hammersmith One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/HammersmithOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Hanalei';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Hanalei-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Hanalei Fill';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/HanaleiFill-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Handlee';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Handlee-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Hanuman';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Hanuman-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Happy Monkey';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/HappyMonkey-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Headland One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/HeadlandOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Henny Penny';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/HennyPenny-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Herr Von Muellerhoff';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/HerrVonMuellerhoff-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Hind-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Holtwood One SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/HoltwoodOneSC-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Homemade Apple';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/HomemadeApple-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Homenaje';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Homenaje-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'IM Fell DW Pica';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/IMFellDWPica-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'IM Fell DW Pica SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/IMFellDWPicaSC-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'IM Fell Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/IMFellDoublePica-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'IM Fell Double Pica SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/IMFellDoublePicaSC-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'IM Fell English';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/IMFellEnglish-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'IM Fell English SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/IMFellEnglishSC-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'IM Fell French Canon';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/IMFellFrenchCanon-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'IM Fell French Canon SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/IMFellFrenchCanonSC-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'IM Fell Great Primer';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/IMFellGreatPrimer-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'IM Fell Great Primer SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/IMFellGreatPrimerSC-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Iceberg';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Iceberg-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Iceland';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Iceland-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Imprima';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Imprima-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Inconsolata-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Inder';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Inder-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Indie Flower';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/IndieFlower-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Inika-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/InknutAntiqua-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/IrishGrover-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/IstokWeb-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Italiana-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Italianno';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Italianno-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/JacquesFrancois-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Jacques Francois Shadow';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/JacquesFrancoisShadow-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Jaldi';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Jaldi-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Jim Nightshade';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/JimNightshade-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Jockey One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/JockeyOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Jolly Lodger';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/JollyLodger-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/JosefinSans-Regular.ttf) format('truetype');
+}
+
+
+
+
+@font-face {
+    font-family: 'Josefin Slab';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/JosefinSlab-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Joti One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/JotiOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Judson';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Judson-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Julee';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Julee-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Julius Sans One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/JuliusSansOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Junge';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Junge-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Jura-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Just Another Hand';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/JustAnotherHand-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Just Me Again Down Here';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/JustMeAgainDownHere-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Kadwa';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Kadwa-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Kalam';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Kalam-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Kameron';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Kameron-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Kantumruy';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Kantumruy-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Karla-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Karma';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Karma-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Kaushan Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/KaushanScript-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Kavoon';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Kavoon-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Kdam Thmor';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/KdamThmor-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Keania One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/KeaniaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Kelly Slab';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/KellySlab-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Kenia';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Kenia-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Khand';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Khand-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Khmer';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Khmer-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Khula-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Kite One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/KiteOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Knewave';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Knewave-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Kotta One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/KottaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Koulen';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Koulen-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Kranky';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Kranky-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Kreon';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Kreon-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Kristi';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Kristi-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Krona One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/KronaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Kurale';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Kurale-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'La Belle Aurore';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LaBelleAurore-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Laila';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Laila-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Lakki Reddy';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LakkiReddy-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lancelot';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Lancelot-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lateef';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Lateef-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Lato-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'League Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LeagueScript-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Leckerli One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LeckerliOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ledger';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Ledger-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lekton';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Lekton-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Lemon';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Lemon-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Libre Baskerville';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LibreBaskerville-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Life Savers';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LifeSavers-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Lilita One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LilitaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lily Script One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LilyScriptOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Limelight';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Limelight-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Linden Hill';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LindenHill-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Lobster-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lobster Two';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LobsterTwo-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Londrina Outline';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LondrinaOutline-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Londrina Shadow';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LondrinaShadow-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Londrina Sketch';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LondrinaSketch-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Londrina Solid';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LondrinaSolid-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Lora-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Love Ya Like A Sister';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LoveYaLikeASister-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Loved by the King';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LovedbytheKing-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lovers Quarrel';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LoversQuarrel-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Luckiest Guy';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/LuckiestGuy-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lusitana';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Lusitana-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Lustria';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Lustria-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Macondo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Macondo-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Macondo Swash Caps';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MacondoSwashCaps-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Magra';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Magra-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Maiden Orange';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MaidenOrange-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Mako';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Mako-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Mallanna';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Mallanna-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Mandali';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Mandali-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Marcellus';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Marcellus-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Marcellus SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MarcellusSC-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MarckScript-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Margarine';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Margarine-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Marko One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MarkoOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Marmelad';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Marmelad-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Martel';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Martel-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Martel Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MartelSans-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Marvel';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Marvel-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Mate';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Mate-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Mate SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MateSC-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MavenPro-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'McLaren';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/McLaren-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Meddon';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Meddon-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'MedievalSharp';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MedievalSharp-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Medula One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MedulaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Megrim';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Megrim-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Meie Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MeieScript-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Merienda-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Merienda One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MeriendaOne-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Merriweather-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MerriweatherSans-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Metal';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Metal-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Metal Mania';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MetalMania-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Metamorphous';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Metamorphous-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Metrophobic';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Metrophobic-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Michroma';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Michroma-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Milonga';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Milonga-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Miltonian';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Miltonian-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Miltonian Tattoo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MiltonianTattoo-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Miniver';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Miniver-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Miss Fajardose';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MissFajardose-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Modak';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Modak-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Modern Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ModernAntiqua-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Molengo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Molengo-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Monda';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Monda-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Monofett';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Monofett-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Monoton';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Monoton-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Monsieur La Doulaise';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MonsieurLaDoulaise-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montaga';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Montaga-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montez';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Montez-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Montserrat-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MontserratAlternates-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Montserrat Subrayada';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MontserratSubrayada-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Moul';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Moul-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Moulpali';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Moulpali-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Mountains of Christmas';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MountainsofChristmas-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Mouse Memoirs';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MouseMemoirs-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Mr Bedfort';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MrBedfort-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Mr Dafoe';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MrDafoe-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Mr De Haviland';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MrDeHaviland-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Mrs Saint Delafield';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MrsSaintDelafield-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Mrs Sheppards';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MrsSheppards-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Muli-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Mystery Quest';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/MysteryQuest-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'NTR';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NTR-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Neucha';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Neucha-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Neuton';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Neuton-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'New Rocker';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NewRocker-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'News Cycle';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NewsCycle-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Niconne';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Niconne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nixie One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NixieOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nobile';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Nobile-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Nokora';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Nokora-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Norican';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Norican-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nosifer';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Nosifer-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nothing You Could Do';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NothingYouCouldDo-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Noticia Text';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NoticiaText-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NotoSans-Regular.ttf) format('truetype');
+}
+
+
+
+
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NotoSerif-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Nova Cut';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NovaCut-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nova Flat';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NovaFlat-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nova Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NovaMono-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nova Oval';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NovaOval-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nova Round';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NovaRound-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nova Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NovaScript-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nova Slim';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NovaSlim-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nova Square';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/NovaSquare-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Numans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Numans-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Nunito-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Odor Mean Chey';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/OdorMeanChey-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Offside';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Offside-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Old Standard TT';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/OldStandardTT-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Oldenburg';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Oldenburg-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Oleo Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/OleoScript-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Oleo Script Swash Caps';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/OleoScriptSwashCaps-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/OpenSans-Regular.ttf) format('truetype');
+}
+
+
+
+
+@font-face {
+    font-family: 'Oranienbaum';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Oranienbaum-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Orbitron-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Oregano';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Oregano-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Orienta';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Orienta-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Original Surfer';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/OriginalSurfer-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Oswald-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Over the Rainbow';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/OvertheRainbow-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Overlock-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Overlock SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/OverlockSC-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ovo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Ovo-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Oxygen-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Oxygen Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/OxygenMono-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'PT Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PTMono-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PTSans-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PTSansCaption-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'PT Sans Narrow';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PTSansNarrow-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PTSerif-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'PT Serif Caption';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PTSerifCaption-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Pacifico-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Palanquin';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Palanquin-Regular.ttf) format('truetype');
+}
+
+
+
+
+@font-face {
+    font-family: 'Palanquin Dark';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PalanquinDark-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Paprika';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Paprika-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Parisienne';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Parisienne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Passero One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PasseroOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Passion One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PassionOne-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Pathway Gothic One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PathwayGothicOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Patrick Hand';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PatrickHand-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Patrick Hand SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PatrickHandSC-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Patua One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PatuaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Paytone One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PaytoneOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Peddana';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Peddana-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Peralta';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Peralta-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Permanent Marker';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PermanentMarker-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Petit Formal Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PetitFormalScript-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Petrona';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Petrona-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Philosopher-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Piedra';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Piedra-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Pinyon Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PinyonScript-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PirataOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Plaster';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Plaster-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Play';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Play-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Playball';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Playball-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PlayfairDisplay-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Playfair Display SC';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PlayfairDisplaySC-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Podkova';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Podkova-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Poiret One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PoiretOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poller One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PollerOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poly';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Poly-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Pompiere';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Pompiere-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Pontano Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PontanoSans-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Poppins-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Port Lligat Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PortLligatSans-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Port Lligat Slab';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PortLligatSlab-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Pragati Narrow';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PragatiNarrow-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Prata-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Preahvihear';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Preahvihear-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Press Start 2P';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PressStart2P-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Princess Sofia';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PrincessSofia-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Prociono';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Prociono-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Prosto One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ProstoOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Puritan';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Puritan-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Purple Purse';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/PurplePurse-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Quando';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Quando-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Quantico';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Quantico-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Quattrocento';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Quattrocento-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Quattrocento Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/QuattrocentoSans-Regular.ttf) format('truetype');
+}
+
+
+
+
+@font-face {
+    font-family: 'Questrial';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Questrial-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Quicksand-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Quintessential';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Quintessential-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Qwigley';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Qwigley-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Racing Sans One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RacingSansOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Radley';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Radley-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Rajdhani';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Rajdhani-Regular.ttf) format('truetype');
+}
+
+
+
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Raleway-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Raleway Dots';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RalewayDots-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ramabhadra';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Ramabhadra-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ramaraja';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Ramaraja-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rambla';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Rambla-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Rammetto One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RammettoOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ranchers';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Ranchers-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rancho';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Rancho-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ranga';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Ranga-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Rationale';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Rationale-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ravi Prakash';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RaviPrakash-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Redressed';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Redressed-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Reenie Beanie';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ReenieBeanie-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Revalia';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Revalia-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rhodium Libre';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RhodiumLibre-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ribeye';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Ribeye-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ribeye Marrow';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RibeyeMarrow-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Righteous';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Righteous-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Risque';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Risque-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Roboto-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RobotoCondensed-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RobotoMono-Regular.ttf) format('truetype');
+}
+
+
+
+
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RobotoSlab-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Rochester';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Rochester-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rock Salt';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RockSalt-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Rokkitt-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Romanesco';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Romanesco-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RopaSans-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Rosario';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Rosario-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Rosarivo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Rosarivo-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Rouge Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RougeScript-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rozha One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RozhaOne-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Rubik-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RubikMonoOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RubikOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ruda';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Ruda-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Rufina';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Rufina-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ruge Boogie';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RugeBoogie-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ruluko';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Ruluko-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rum Raisin';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RumRaisin-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ruslan Display';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RuslanDisplay-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Russo One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/RussoOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ruthie';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Ruthie-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rye';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Rye-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sacramento';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Sacramento-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sahitya';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Sahitya-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Sail';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Sail-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Salsa';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Salsa-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sanchez';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Sanchez-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Sancreek';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Sancreek-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sansita One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SansitaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sarala';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Sarala-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Sarina';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Sarina-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sarpanch';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Sarpanch-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Satisfy';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Satisfy-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Scada';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Scada-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Scheherazade';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Scheherazade-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Schoolbell';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Schoolbell-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Seaweed Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SeaweedScript-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sevillana';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Sevillana-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Seymour One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SeymourOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Shadows Into Light';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ShadowsIntoLight-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Shadows Into Light Two';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ShadowsIntoLightTwo-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Shanti';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Shanti-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Share';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Share-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Share Tech';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ShareTech-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Share Tech Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ShareTechMono-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Shojumaru';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Shojumaru-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Short Stack';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/ShortStack-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Siemreap';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Siemreap-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sigmar One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SigmarOne-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Signika';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Signika-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Signika Negative';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SignikaNegative-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Simonetta';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Simonetta-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Sintony';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Sintony-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Sirin Stencil';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SirinStencil-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Six Caps';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SixCaps-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Skranji';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Skranji-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Slabo 13px';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Slabo13px-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Slabo 27px';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Slabo27px-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Slackey';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Slackey-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Smokum';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Smokum-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Smythe';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Smythe-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sniglet';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Sniglet-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Snippet';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Snippet-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Snowburst One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SnowburstOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sofadi One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SofadiOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sofia';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Sofia-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sonsie One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SonsieOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sorts Mill Goudy';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SortsMillGoudy-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SourceCodePro-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SourceSansPro-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SourceSerifPro-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Special Elite';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SpecialElite-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Spicy Rice';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SpicyRice-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Spinnaker';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Spinnaker-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Spirax';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Spirax-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Squada One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SquadaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sree Krushnadevaraya';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SreeKrushnadevaraya-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Stalemate';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Stalemate-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Stalinist One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/StalinistOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Stardos Stencil';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/StardosStencil-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Stint Ultra Condensed';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/StintUltraCondensed-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Stint Ultra Expanded';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/StintUltraExpanded-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Stoke';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Stoke-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Strait';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Strait-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sue Ellen Francisco';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SueEllenFrancisco-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sumana';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Sumana-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Sunshiney';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Sunshiney-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Supermercado One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SupermercadoOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sura';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Sura-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Suranna';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Suranna-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Suravaram';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Suravaram-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Suwannaphum';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Suwannaphum-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Swanky and Moo Moo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/SwankyandMooMoo-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Syncopate';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Syncopate-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Tangerine';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Tangerine-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Taprom';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Taprom-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Tauri';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Tauri-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Teko';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Teko-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Telex';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Telex-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Tenali Ramakrishna';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/TenaliRamakrishna-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Tenor Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/TenorSans-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Text Me One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/TextMeOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'The Girl Next Door';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/TheGirlNextDoor-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Tienne';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Tienne-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Tillana';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Tillana-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Timmana';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Timmana-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Tinos-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Titan One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/TitanOne-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/TitilliumWeb-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Trade Winds';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/TradeWinds-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Trocchi';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Trocchi-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Trochut';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Trochut-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Trykker';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Trykker-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Tulpen One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/TulpenOne-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Ubuntu-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Ubuntu Condensed';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/UbuntuCondensed-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Ubuntu Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/UbuntuMono-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Ultra';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Ultra-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Uncial Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/UncialAntiqua-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Underdog';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Underdog-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Unica One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/UnicaOne-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'UnifrakturMaguntia';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/UnifrakturMaguntia-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Unkempt';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Unkempt-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Unlock';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Unlock-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Unna';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Unna-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'VT323';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/VT323-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Vampiro One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/VampiroOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Varela';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Varela-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Varela Round';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/VarelaRound-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Vast Shadow';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/VastShadow-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Vesper Libre';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/VesperLibre-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Vibur';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Vibur-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Vidaloka';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Vidaloka-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Viga';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Viga-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Voces';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Voces-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Volkhov';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Volkhov-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Vollkorn';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Vollkorn-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Voltaire';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Voltaire-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Waiting for the Sunrise';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/WaitingfortheSunrise-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Wallpoet';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Wallpoet-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Walter Turncoat';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/WalterTurncoat-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Warnes';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Warnes-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Wellfleet';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Wellfleet-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Wendy One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/WendyOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Wire One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/WireOne-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/WorkSans-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Yanone Kaffeesatz';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/YanoneKaffeesatz-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Yantramanav';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Yantramanav-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Yellowtail';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Yellowtail-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/YesevaOne-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Yesteryear';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Yesteryear-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Zeyada';
+    font-style: normal;
+    font-weight: 400;
+    src: url(googlefonts/Zeyada-Regular.ttf) format('truetype');
+}
