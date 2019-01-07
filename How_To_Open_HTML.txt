@@ -1,0 +1,11 @@
+﻿How to open the HTML Download.
+
+If you decompress the contents of the .zip file and open the genially.html, you will be able to see your genially in the browser, even with no internet connection.
+We should note that not having internet connection you mean that you may not be able to see external content, like videos, social media, etc.
+
+If you have any question, please contact us in support@genial.ly.
+
+More info: http://doitgenially.com/en/how-do-you-download-a-genially-can-you-see-my-genially-without-an-internet-connection/
+
+Thanks.
+

@@ -1,0 +1,11 @@
+﻿Cómo usar tu descarga HTML5.
+
+Si decomprimimos todo el contenido del archivo .zip y abrimos genially.html, podremos visualizar nuestro Genially en el navegador, incluso sin conexión a Internet.
+Debemos tener en cuenta que de no tener conexión a Internet no se podrán visualizar el contenido externo (vídeos, redes sociales, etc.).
+
+Para cualquier duda, escríbenos a support@genial.ly.
+
+Vídeo explicativo: http://doitgenially.com/como-descargar-un-genially-puedo-ver-mi-genially-sin-conexion/
+
+Gracias!!
+
